@@ -1,3 +1,11 @@
+NAME:T.K.SHRIVIMAL
+
+
+
+REF NO:212224220101
+
+
+
 # LAB-4-Hospital-Management
 ### AIM:
 To develop the Hospital management System using Star UML tool.
